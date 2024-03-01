@@ -7,5 +7,3 @@
 <h1> TinkerCad Link</h1>
 https://www.tinkercad.com/things/34nvtyFHK4E-super-amberis/editel?sharecode=S5e1f63zo45NCkixZMYQrsvONjBGPt6TMs36Bj8J-TM&sharecode=S5e1f63zo45NCkixZMYQrsvONjBGPt6TMs36Bj8J-TM
 
-
-
